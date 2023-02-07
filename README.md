@@ -28,7 +28,7 @@
 <h3 align="center">Let's connect 😋</h3>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com" target="blank">
+<a href="[https://www.linkedin.com](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BSpp2RRzKQ3%2B6gUoQf9C2Mw%3D%3D)" target="blank">
 <img align="center" width="30px" alt="Hector's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://twitter.com" target="blank">
 <img align="center" width="30px" alt="Hector's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
