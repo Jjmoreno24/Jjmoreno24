@@ -28,8 +28,8 @@
 <img align="center" width="30px" alt="Hector's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://twitter.com/Jjmoreno24" target="blank">
 <img align="center" width="30px" alt="Hector's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.twitch.tv" target="blank">
-<img align="center" width="30px" alt="Hector's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/" target="blank">
+<img align="center" width="30px" alt="Hector's Twitch" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.youtube.com" target="blank">
 <img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
 </p>
