@@ -5,6 +5,7 @@
 <h5 align="center">"Tercera ley de Clarke: cualquier tecnología suficientemente avanzada es indistinguible de la magia."</h5>
 <br><em>Soy un simple <b>estudiante de </b> Sistemas Computacionales y Desarrollador, Frontend <b></b> y <b>Backend Junior</b>, apasionado por el mundo de la <b>Tecnología,</b><b>Aprendizaje automático</b> y <b>Inteligencia Artificial</b>.  No hay reto lo suficientemente grande como para no intentarlo, con habilidad y técnica podemos conseguir grandes cosas.</em>
 <br>
+<br>
 
 ## 💼 Habilidades técnicas
 |Lenguajes de Programación|Frontend|Backend|
