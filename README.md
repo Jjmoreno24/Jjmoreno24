@@ -3,7 +3,7 @@
 <h1 align="center"> Hola👋, soy José Moreno <img src="./src/wave.gif" width="30px"></h1>
 
 <h5 align="center">"Tercera ley de Clarke: Cualquier tecnología suficientemente avanzada es indistinguible de la magia."</h5>
-<br><em>Soy <b>estudiante</b> de  <b>Ingeniería Sistemas Computacionales y Desarrollador, Frontend </b> y <b>Backend Junior</b>, apasionado por el mundo de la <b>Tecnología,</b><b>Aprendizaje automático</b> y <b>Inteligencia Artificial</b>.  No hay reto lo suficientemente grande como para no intentarlo, con habilidad y técnica podemos conseguir grandes cosas.</em>
+<br><em>Soy <b>estudiante</b> de  <b>Ingeniería Sistemas Computacionales y Desarrollador, Frontend </b> y <b>Backend Junior</b>, apasionado por el mundo de la <b>Tecnología,</b><b>Aprendizaje automático</b> e <b>Inteligencia Artificial</b>.  No hay reto lo suficientemente grande como para no intentarlo, con habilidad y técnica podemos conseguir grandes cosas.</em>
 <br>
 <br>
 
