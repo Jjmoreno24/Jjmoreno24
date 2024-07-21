@@ -12,13 +12,13 @@ Soy <b>estudiante de Ingeniería en Sistemas Computacionales</b> y <b>Desarrolla
 </p>
 <br>
 
-## 💼 Habilidades técnicas
+## 💻 Habilidades técnicas
 
 | Lenguajes de Programación | Frontend | Backend | Herramientas |
 |---|---|---|---|
 | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) |
 
-## 💼 Habilidades técnicas
+## 🔭 Entornos de desarrollo
 
 | RDBMS | Dev Tools |
 |---|---|
@@ -38,7 +38,7 @@ Soy <b>estudiante de Ingeniería en Sistemas Computacionales</b> y <b>Desarrolla
 
 ## 
 <div align="center">
-<h3 align="center">Let's connect 💬</h3> 
+<h3 align="center"> 📬 Let's connect⚡</h3> 
 </div>
 <p align="center">
 <a href="https://www.linkedin.com" target="blank">
