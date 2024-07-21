@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+¡Soy+Jose+Moreno!+👨;" />
 </h1>
 
-<h5 align="center">"Tercera ley de Clarke: Cualquier tecnología suficientemente avanzada es indistinguible de la magia."</h5>
+<h5 align="center">" Tercera ley de Clarke: Cualquier tecnología suficientemente avanzada es indistinguible de la magia. 🎢"</h5>
 <br>
 <p align="justify">
 Soy <b>estudiante de Ingeniería en Sistemas Computacionales</b> y <b>Desarrollador Junior Full Stack,</b> apasionado por la <b>Tecnología,</b> el <b>Aprendizaje Automático</b> y la <b>Inteligencia Artificial.</b> Creo firmemente que no hay reto demasiado grande; con habilidad y técnica, podemos lograr grandes cosas. 🍵
@@ -36,7 +36,11 @@ Soy <b>estudiante de Ingeniería en Sistemas Computacionales</b> y <b>Desarrolla
   </div>
 </div>
 
+
 ## 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jjmoreno24&bg_color=0d1117&color=2db48f&line=484fd8&point=2abcf7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
 <div align="center">
 <h3 align="center"> 📬 Let's connect⚡</h3> 
 </div>
@@ -50,5 +54,7 @@ Soy <b>estudiante de Ingeniería en Sistemas Computacionales</b> y <b>Desarrolla
 <a href="https://www.youtube.com" target="blank">
 <img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
 </p>
+
+
 
 
