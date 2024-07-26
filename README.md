@@ -1,9 +1,10 @@
 [![KRmj-Mz6-Qa-Um-P-1584-396.png](https://i.postimg.cc/HkXSSH13/KRmj-Mz6-Qa-Um-P-1584-396.png)](https://postimg.cc/Yv2f959m)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true" />
+<p align="right">
+  <a href="https://visitcount.itsvg.in">
+     <img src="https://visitcount.itsvg.in/api?id=Jjmoreno24&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  </a>
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola!+👋;+¡Soy+Jose+Moreno!+👨;" />
-</h1>
 
 <h5 align="center">" Tercera ley de Clarke: Cualquier tecnología suficientemente avanzada es indistinguible de la magia. 🎢"</h5>
 <br>
