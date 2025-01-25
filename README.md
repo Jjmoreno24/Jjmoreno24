@@ -52,7 +52,7 @@ Soy <b>estudiante de Ingeniería en Sistemas Computacionales</b> y <b>Desarrolla
 <img align="center" width="30px" alt="Hector's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
 <a href="https://www.instagram.com/" target="blank">
 <img align="center" width="30px" alt="Hector's Twitch" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a> &nbsp; &nbsp;
-<a href="https://www.youtube.com" target="blank">
+<a href="https://www.youtube.com/@JoseMoreno-kt3xb" target="blank">
 <img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
 </p>
 
