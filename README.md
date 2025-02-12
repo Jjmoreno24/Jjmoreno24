@@ -1,11 +1,4 @@
 [![KRmj-Mz6-Qa-Um-P-1584-396.png](https://i.postimg.cc/HkXSSH13/KRmj-Mz6-Qa-Um-P-1584-396.png)](https://postimg.cc/Yv2f959m)
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-     <img src="https://visitcount.itsvg.in/api?id=Jjmoreno24&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  </a>
-</p>
-
-
 <h5 align="center">" Tercera ley de Clarke: Cualquier tecnología suficientemente avanzada es indistinguible de la magia. 🎢"</h5>
 <br>
 <p align="justify">
