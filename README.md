@@ -48,7 +48,3 @@ Soy <b>estudiante de Ingeniería en Sistemas Computacionales</b> y <b>Desarrolla
 <a href="https://www.youtube.com/@JoseMoreno-kt3xb" target="blank">
 <img align="center" width="30px" alt="Hector's Youtube" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"/></a> &nbsp; &nbsp;
 </p>
-
-
-
-
